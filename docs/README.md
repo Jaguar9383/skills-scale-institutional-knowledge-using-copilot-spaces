@@ -62,7 +62,7 @@ If you have suggestions for improving these process documents or need to add new
 
 1. Navigate to the [Issues page](../../issues)
 2. Click "New Issue"
-3. Select the **"Add or Update Content to Process Docs"** template
+3. Select the **"Add Content to Project Management Process Docs"** template
 4. Fill out the template with your proposed changes and rationale
 
 You can also access the issue template directly at `.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml` in this repository.

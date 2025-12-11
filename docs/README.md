@@ -16,6 +16,11 @@ This README provides a concise overview of OctoAcme's project management process
 - **Product Manager (PdM)**: Defines outcomes, prioritizes the backlog, and measures success
 - **Developers**: Implement features, collaborate on design, and ensure testability
 - **QA/Testing**: Validate quality standards and acceptance criteria
+- **Scrum Master**: Facilitates Agile processes, removes blockers, and coaches the team
+- **UX Designer**: Creates user-centered designs and ensures accessibility standards
+- **Technical Writer**: Produces clear documentation for users and developers
+- **Release Manager**: Coordinates release schedules and deployment processes
+- **Security Lead**: Ensures security best practices and vulnerability management
 
 ## Project Lifecycle
 
@@ -42,8 +47,9 @@ Our standardized workflows and artifacts ensure consistency and quality across a
 - **Risk Register**: Track risks with impact, likelihood, owner, and mitigation plans ([Risk management](./octoacme-risks-and-communication.md#risk-register))
 - **Release Checklist**: Pre-deployment requirements, smoke tests, and post-deploy verifications ([Release guide](./octoacme-release-and-deployment.md#deployment-checklist))
 - **Retrospective Notes**: Action items with owners and due dates for continuous improvement ([Retrospective guide](./octoacme-retrospective-and-continuous-improvement.md))
+- **Cross-Role Collaboration Guide**: Handoffs, responsibilities, and collaboration patterns for seamless project delivery ([Collaboration guide](./octoacme-cross-role-collaboration.md))
 
-For more details on roles and responsibilities, see [OctoAcme Roles and Personas](./octoacme-roles-and-personas.md). For communication strategies and stakeholder updates, refer to [Risk Management & Communication](./octoacme-risks-and-communication.md).
+For more details on roles and responsibilities, see [OctoAcme Roles and Personas](./octoacme-roles-and-personas.md). For collaboration patterns and handoffs between roles, refer to [Cross-Role Collaboration Guide](./octoacme-cross-role-collaboration.md). For communication strategies and stakeholder updates, see [Risk Management & Communication](./octoacme-risks-and-communication.md).
 
 ## Execution Checklist
 
